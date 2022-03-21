@@ -1,0 +1,50 @@
+OpenShift_Kubernetes_Engine,OpenShift_Container_Platform,OpenShift_Platform_Plus,Operator_Name,Useful_Operator_Name
+Included,Included,Included,OpenShift Virtualization Operator,kubevirt-hyperconverged
+Not Included,Not Included,Not Included,Windows Machine Config Operator,windows-machine-config-operator
+Included,Included,Included,Compliance Operator,compliance-operator
+Included,Included,Included,File Integrity Operator,file-integrity-operator
+Not Included,Not Included,Included,Gatekeeper Operator,gatekeeper-operator-product
+Included,Included,Included,Kube Descheduler Operator,clusterkubedescheduleroperator
+Included,Included,Included,Local Storage Operator,local-storage-operator
+Included,Included,Included,Node Feature Discovery Operator,nfd
+Included,Included,Included,Performance Add-on Operator,performance-addon-operator
+Included,Included,Included,PTP Operator,ptp-operator
+Included,Included,Included,Service Telemetry Operator,opentelemetry-operator
+Included,Included,Included,SR-IOV Network Operator,sriov-network-operator
+Included,Included,Included,Vertical Pod Autoscaler,verticalpodautoscaler
+Included,Included,Included,Cluster Monitoring,jaeger-operator
+Included,Included,Included,Red Hat OpenShift Logging Operator (for log forwarding with fluentd),cluster-logging
+Not Included,Included,Included,Red Hat OpenShift Logging Operator,cluster-logging
+Not Included,Included,Included,OpenShift Service Mesh Operator,servicemeshoperator
+Not Included,Included,Included,Service Binding Operator,service-binding-operator
+Not Included,Included,Included,OpenShift Serverless Operator,serverless-operator
+Not Included,Included,Included,Web Terminal Operator,web-terminal
+Not Included,Included,Included,Jenkins Operator,jenkins-operator
+Not Included,Included,Included,OpenShift Pipelines Operator,redhat-openshift-pipelines
+Not Included,Included,Included,OpenShift GitOps,openshift-gitops-operator
+Not Included,Included,Included,CodeReady Workspaces,crwoperator
+Not Included,Included,Included,Quay Bridge Operator,quay-bridge-operator
+Not Included,Included,Included,Quay Operator,quay-operator
+Not Included,Included,Included,Red Hat OpenShift distributed tracing platform Operator,jaeger-operator
+Not Included,Included,Included,Kiali Operator,kiali-operator
+Not Included,Included,Included,Migration Toolkit for Containers Operator,mtc-operator
+Not included,Included,Included,JWS Operator,jws-operator
+Not Included,Not Included,Not Included,Advanced Cluster Management for Kubernetes,advanced-cluster-management
+Not Included,Not Included,Not Included,OpenShift Container Storage,ocs-operator
+Not Included,Not Included,Not Included,Ansible Automation Platform Resource Operator,ansible-automation-platform-operator
+Not Included,Not Included,Not Included,Business Automation Operator,businessautomation-operator
+Not Included,Not Included,Not Included,Data Grid Operator,datagrid-operator
+Not Included,Not Included,Not Included,Red Hat Integration Operator,integration-operator
+Not Included,Not Included,Not Included,3scale,3scale-operator
+Not Included,Not Included,Not Included,3scale APIcast,apicast-operator
+Not Included,Not Included,Not Included,AMQ Broker,amq-broker-operator
+Not Included,Not Included,Not Included,AMQ Interconnect,amq7-interconnect-operator
+Not Included,Not Included,Not Included,AMQ Streams,amqstreams
+Not Included,Not Included,Not Included,Camel K,red-hat-camel-k-operator
+Not Included,Not Included,Not Included,Fuse Console,fuse-console
+Not Included,Not Included,Not Included,Fuse Online,fuse-online
+Not Included,Not Included,Not Included,Service Registry,service-registry-operator
+Not Included,Not Included,Not Included,API Designer,fuse-apicurito
+Not Included,Not Included,Not Included,JBoss EAP,eap-operator
+Not Included,Not Included,Not Included,JBoss Web Server,jws-operator
+Not Included,Not Included,Not Included,Smart Gateway Operator,smart-gateway-operator
